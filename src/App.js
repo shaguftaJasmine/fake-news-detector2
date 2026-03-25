@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 // SECTION 1: CONSTANTS & DATA
 // ============================================================
  
-const GROQ_API_KEY = process.env.REACT_APP_GROQ_API_KEY; 
+
  
 const STATS = [
   { value: "99.36%", label: "Accuracy" },
